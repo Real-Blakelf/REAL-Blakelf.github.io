@@ -45,3 +45,15 @@ h1{
     border-radius: 25%;
     border: 2px solid rgb(126, 14, 201);
 }
+.skills p {
+    width:50%;
+    text-align: left;
+    margin: auto;
+    line-height: 125%;
+}
+.contact p {
+    width:50%;
+    text-align: left;
+    margin: auto;
+    line-height: 125%;
+}
